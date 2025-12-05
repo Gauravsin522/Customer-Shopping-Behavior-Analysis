@@ -39,7 +39,7 @@ This project demonstrates your ability to:
 
 # 📊 **Dashboard Preview**
 > Place your dashboard screenshot here:  
-> `images/dashboard.png`
+> `[images/dashboard.png](https://github.com/Gauravsin522/Customer-Shopping-Behavior-Analysis/blob/main/Image.png)`
 
 ![Dashboard](images/dashboard.png)
 
