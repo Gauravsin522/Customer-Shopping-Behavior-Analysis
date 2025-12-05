@@ -39,11 +39,7 @@ This project demonstrates your ability to:
 ---
 
 # 📊 **Dashboard Preview**
-> Place your dashboard screenshot here:  
-> `images/dashboard.png`
-
-![Dashboard](images/dashboard.png)
-
+![Dashboard](Image.png)
 ---
 
 
