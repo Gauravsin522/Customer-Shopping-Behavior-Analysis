@@ -38,10 +38,7 @@ This project demonstrates your ability to:
 ---
 
 # 📊 **Dashboard Preview**
-> `images/dashboard.png`
-
 ![Dashboard](Image.png)
-
 
 ---
 
