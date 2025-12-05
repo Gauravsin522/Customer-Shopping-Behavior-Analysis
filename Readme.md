@@ -40,7 +40,7 @@ This project demonstrates your ability to:
 # 📊 **Dashboard Preview**
 > `images/dashboard.png`
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/Gauravsin522/Customer-Shopping-Behavior-Analysis/main/Image.png)
 
 
 ---
